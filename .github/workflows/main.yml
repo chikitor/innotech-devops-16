@@ -4,7 +4,7 @@ on:
   workflow_dispatch:
 
 jobs:
-  greet:
+  greet_Fernando:
     runs-on: ubuntu-latest
     steps:
       - name: Greet the User
